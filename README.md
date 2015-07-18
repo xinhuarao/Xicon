@@ -5,7 +5,7 @@ Xicon
 
 Live demo
 =====
-[http://doc.colorpeach.com/projects/Xicon](http://doc.colorpeach.com/projects/Xicon)
+[http://colorpeach.github.io/Xicon/](http://colorpeach.github.io/Xicon/)
 
 进度
 =====
@@ -77,6 +77,7 @@ Live demo
 * `plus`
 * `question-sign`
 * `record`
+* `redo`
 * `remove`
 * `remove-circle`
 * `resize-horizontal`
@@ -99,6 +100,7 @@ Live demo
 * `time`
 * `trash`
 * `unchecked`
+* `undo`
 * `upload`
 * `user`
 * `wrench`
